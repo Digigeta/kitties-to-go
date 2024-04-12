@@ -40,3 +40,11 @@ p {
         min-width: 600px;
     }
 }
+@media only screen and (max-width: 768px) {
+    .aside {
+      display: none;
+    }
+  }  
+  header {
+    width: 100%;
+  }
